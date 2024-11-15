@@ -1,0 +1,12 @@
+{
+  "name": "yeolsoe",
+  "version": "1.0.0",
+  "description": "Yeolsoe App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.mjs"
+  },
+  "author": "Peter Lu",
+  "license": "GPL-3.0"
+}
